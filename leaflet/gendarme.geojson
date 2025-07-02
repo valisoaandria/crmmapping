@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0,  "properties": { "nom": "gendarmerie Anosizato", "Adresse": "Anosizato", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.498177, -18.937802 ] } },
+{ "type": "Feature","id": 1,  "properties": { "nom": "Poste gendarmerie nationale Ampefy", "Adresse": "Ampefy", "Contact": null, "region": "ITASY" }, "geometry": { "type": "Point", "coordinates": [ 46.733915, -19.042283 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nom": "Brigade de la Gendarmerie Ankadikely", "Adresse": "Ankadikely Ilafy", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.553822, -18.849017 ] } },
+{ "type": "Feature","id": 3, "properties": {  "nom": "Gendarmerie Ambohimangakely", "Adresse": "Ambohimangakely", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.597508, -18.891766 ]  } },
+{ "type": "Feature","id": 4, "properties": {  "nom": "Poste avancï¿½ de la gendarmerie Ankadindravola", "Adresse": "Ankadindravola", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.486932, -18.825805 ]  } },
+{ "type": "Feature","id": 5, "properties": {  "nom": "Brigade de la Gendarmerie Talamaty", "Adresse": "Talamaty Amborompotsy Talatamaty", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.453354, -18.838204 ] } },
+{ "type": "Feature","id":6,  "properties": { "nom": "Gendarmerie Nationale Circonscription d'Antananarivo", "Adresse": "Arabe Rabozaka", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.52819, -18.92322 ]} }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+
+                                                                                
+"features": [
+{ "type": "Feature","id": 0,  "properties": { "nom": "Pharmacie Cabinet Medical", "Adresse": "Tsiroanomandidy", "Contact": null, "region": "BONGOLAVA" }, "geometry": { "type": "Point", "coordinates": [ 46.05106, -18.770373 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nom": "Pharmacie du Bongolava ", "Adresse": "Tsiroanomandidy", "Contact": null, "region": "BONGOLAVA" }, "geometry": { "type": "Point", "coordinates": [ 46.048796, -18.770759 ] } },
+{ "type": "Feature", "id": 2,"properties": {  "nom": "Pharmacie d'Imerintsiatosika", "Adresse": "LOT VF 17 TER TSENAKELY  Imerintsiatosika", "Contact": "034 19 542 35", "region": "ITASY" }, "geometry": { "type": "Point", "coordinates": [ 47.322601, -18.981297 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nom": "Pharmacie Mamy ", "Adresse": "Ankadindravola", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates":[ 47.511653, -18.902735 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nom": "Pharmacie Havana", "Adresse": "Talamaty Amborompotsy Talatamaty", "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.507164, -18.90505 ] } }
+]
+}

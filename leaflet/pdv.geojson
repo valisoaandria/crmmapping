@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9, "ville": "Ankatso", "nom": "ARS", "type": "Distributeur", "adresse": "Ankatso" }, "geometry": { "type": "Point", "coordinates": [ [ 47.566299, -18.9204 ] ] } },
+{ "type": "Feature",  "properties": {  "id": 13,"ville": "Antaninarenina", "nom": "DMT", "type": "Distributeur", "adresse": "Antaninarenina" }, "geometry": { "type": "Point", "coordinates": [ [ 47.525018, -18.910296 ] ] } }
+]
+}

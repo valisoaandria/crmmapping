@@ -1,0 +1,60 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+{ "type": "Feature","id": 0, "properties": { "ville": "Ankatso", "nom": "ARS", "type": "Distributeur", "adresse": "Ankatso" }, "geometry": { "type": "Point", "coordinates": [ 47.566299, -18.9204 ] } },
+
+{ "type": "Feature","id": 1, "properties": {  "ville": "Antaninarenina", "nom": "DMT", "type": "Distributeur", "adresse": "Antaninarenina" }, "geometry": { "type": "Point", "coordinates": [ 47.525018, -18.910296 ] } },
+
+{ "type": "Feature","id": 2,  "properties": { "ville": "Score Digue", "nom": "DMT", "type": "Distributeur", "adresse": "Score Digue" }, "geometry": { "type": "Point", "coordinates": [ 47.48895, -18.887424 ] } },
+
+{ "type": "Feature","id": 3, "properties": {  "ville": "Tana water front Ambodivona", "nom": "DMT", "type": "Distributeur", "adresse": "Tana water front Ambodivona" }, "geometry": { "type": "Point", "coordinates": [ 47.529419, -18.892932 ] } },
+
+{ "type": "Feature", "id": 4, "properties": { "ville": "Tananarive", "nom": "Analakely", "type": "Botika", "adresse": "41 rue avenue de l'ind?pendance" }, "geometry": { "type": "Point", "coordinates": [  47.52407, -18.907114 ] } },
+
+{ "type": "Feature","id": 5, "properties": {  "ville": "Tananarive", "nom": "Andranomena", "type": "Botika", "adresse": "centre commercial de Point Pacom, en face de la nouvelle Ambassade des USA" }, "geometry": { "type": "Point", "coordinates":  [ 47.479237, -18.852594 ]  } },
+
+{ "type": "Feature", "id": 6,"properties": {  "ville": "Tananarive", "nom": "Antaninandro", "type": "Botika", "adresse": "En face POINT PACOM Andravoahangy Ambony" }, "geometry": { "type": "Point", "coordinates": [ 47.530704, -18.902185 ] } },
+
+{ "type": "Feature","id": 7, "properties": {  "ville": "Tananarive", "nom": "La city", "type": "Botika", "adresse": "Enceinte gal?rie La City Alarobia" }, "geometry": { "type": "Point", "coordinates": [ 47.51946, -18.874676 ] } },
+
+{ "type": "Feature","id": 8,  "properties": { "ville": "Tananarive", "nom": "LP Ankorondrano", "type": "Botika", "adresse": "Enceinte Leader Price Ankorondrano TANA" }, "geometry": { "type": "Point", "coordinates": [ 47.52134, -18.880026 ] } },
+
+{ "type": "Feature","id": 9, "properties": {  "ville": "Tananarive", "nom": "LP Tanjombato", "type": "Botika", "adresse": "Enceinte Leader Price Tanjombato TANA" }, "geometry": { "type": "Point", "coordinates": [ 47.52681, -18.949661 ] } },
+
+{ "type": "Feature","id": 10, "properties": {  "ville": "Tananarive", "nom": "Score Ankorondrano", "type": "Botika", "adresse": "Enceinte SCORE Ankorondrano TANA" }, "geometry": { "type": "Point", "coordinates": [  47.526016, -18.883692 ] } },
+
+{ "type": "Feature","id": 11,  "properties": { "ville": "Tananarive", "nom": "Smart", "type": "Botika", "adresse": "Enceinte SMART Tanjombato" }, "geometry": { "type": "Point", "coordinates": [ 47.5252, -18.954004 ] } },
+
+{ "type": "Feature","id": 12,  "properties": { "ville": "Tananarive", "nom": "Zoom", "type": "Botika", "adresse": "Enceinte Zoom Ankorondrano" }, "geometry": { "type": "Point", "coordinates": [ 47.526016, -18.883692 ] } },
+
+{ "type": "Feature","id": 13, "properties": {  "ville": "Tananarive", "nom": "Analamahitsy", "type": "Botika", "adresse": "II N 171 Analamahitsy  TANA" }, "geometry": { "type": "Point", "coordinates": [ 47.545902, -18.871943 ] } },
+
+{ "type": "Feature","id": 14, "properties": {  "ville": "Tananarive", "nom": "Ampasamadinika", "type": "Botika", "adresse": "Immeuble Ex-Teillet Labrousse TANA" }, "geometry": { "type": "Point", "coordinates": [  47.520733, -18.908737 ] } },
+
+{ "type": "Feature","id": 15,  "properties": { "ville": "Tananarive", "nom": "Ambohimanarina", "type": "Botika", "adresse": "IVB 70 Ambohimiadana Ambohimanarina" }, "geometry": { "type": "Point", "coordinates": [ 47.50197, -18.874935 ] } },
+
+{ "type": "Feature","id": 16, "properties": {  "ville": "Tananarive", "nom": "67 Ha", "type": "Botika", "adresse": "lgt 239 cit? 67ha sud TANA" }, "geometry": { "type": "Point", "coordinates": [ 47.5071, -18.91044  ] } },
+
+{ "type": "Feature","id": 17, "properties": {  "ville": "Tsiroanomandidy", "nom": "Tsiroanomandidy", "type": "Botika", "adresse": "Lot 1TA1 Tsiroanomandidy Atsimo" }, "geometry": { "type": "Point", "coordinates": [46.04968, -18.77048] } },
+
+{ "type": "Feature","id": 18, "properties": {  "ville": "Miarinarivo", "nom": "Miarinarivo", "type": "Botika", "adresse": "Lot 2D Est Hopital Miarinarivo (Cote ECAR KRISTY MPANJAKA)" }, "geometry": { "type": "Point", "coordinates": [ 46.906708, -18.957232 ] } },
+
+{ "type": "Feature","id": 19,  "properties": { "ville": "Tananarive", "nom": "Ampasampito", "type": "Botika", "adresse": "lot IIH 2 BD Ampasampito TANA" }, "geometry": { "type": "Point", "coordinates": [47.548122, -18.89457 ] } },
+
+{ "type": "Feature","id": 20, "properties": {  "ville": "Tananarive", "nom": "Ankazomanga", "type": "Botika", "adresse": "lot III E 23 91 rue Dr raseta TANA" }, "geometry": { "type": "Point", "coordinates": [47.51613, -18.894512 ] } },
+
+{ "type": "Feature","id": 21, "properties": {  "ville": "Tananarive", "nom": "Itaosy", "type": "Botika", "adresse": "lot IPB 78 Bemasoandro Itaosy TANA" }, "geometry": { "type": "Point", "coordinates": [ 47.47608, -18.908733 ] } },
+
+{ "type": "Feature", "id": 22,"properties": {  "ville": "Tananarive", "nom": "Ambanidia", "type": "Botika", "adresse": "lot VF 9 Faliarivo Ambanidia TANA" }, "geometry": { "type": "Point", "coordinates": [ 47.539229, -18.91841 ] } },
+
+{ "type": "Feature","id": 23, "properties": {  "ville": "Arivonimamo", "nom": "Arivonimamo", "type": "Botika", "adresse": "ROTSY III ARIVONIMAMO NORD (Pres commissariat de Police)" }, "geometry": { "type": "Point", "coordinates": [47.181705, -19.016573] } },
+
+{ "type": "Feature","id": 24, "properties": {  "ville": "Tananarive", "nom": "Andraharo", "type": "Botika", "adresse": "Rue Docteur Raseta ANDRAHARO (pres California)" }, "geometry": { "type": "Point", "coordinates": [47.50611, -18.88111] } },
+
+{ "type": "Feature","id": 25, "properties": {  "ville": "Tananarive", "nom": "Ambohipo", "type": "Botika", "adresse": "Super maki Ambohipo" }, "geometry": { "type": "Point", "coordinates": [47.556878, -18.925582] } }
+
+
+]
+}

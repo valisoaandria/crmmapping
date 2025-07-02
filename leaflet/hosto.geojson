@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature","id": 0, "properties": {  "nom": "Hopital Fenoarivo", "Adresse": "Fenoarivo", "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.434601, -18.9367 ] } },
+
+{ "type": "Feature","id": 1, "properties": {  "nom": "HJRA", "Adresse": "Anosy", "Horaires": "Ouvert 24h", "Contact": "020 22 279 79", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.518997, -18.919337 ] } },
+
+{ "type": "Feature","id": 2, "properties": {  "nom": "Hopital Soavinandriana", "Adresse": "Soavinandriana", "Horaires": "Ouvert 24h", "Contact": "020 23 397 51", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.543277, -18.897975 ] } },
+
+{ "type": "Feature","id": 3, "properties": {  "nom": "Hopital Befelatanana", "Adresse": "Mahamasina", "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.522936, -18.919356 ] } },
+
+{ "type": "Feature","id": 4, "properties": {  "nom": "Hopital d'Itaosy", "Adresse": "Itaosy", "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.466407, -18.92266 ] } },
+
+{ "type": "Feature","id": 5, "properties": { "nom": "Polyclinique et maternite Ilafy", "Adresse": "Ilafy", "Horaires": "Ouvert 24h", "Contact": "020 22 425 66", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.549949, -18.854983 ] } },
+
+{ "type": "Feature","id": 6, "properties": { "nom": "Hopital Mere Enfant", "Adresse": "Rue Mabizo Tsaralalana", "Horaires": "Ouvert 24h", "Contact": "020 22 679 75", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.523025, -18.906828 ] } },
+
+{ "type": "Feature","id": 7, "properties": {  "nom": "Hopital Mpitsabo Mikambana", "Adresse": "Rue Gal Charles de Gaulle", "Horaires": "Ouvert 24h", "Contact": "020 22 235 55", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.542124, -18.917179 ] } },
+
+{ "type": "Feature","id": 8, "properties": { "nom": "Hopital Ambohidroa", "Adresse": null, "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.486671, -18.85594 ] } },
+
+{ "type": "Feature","id": 9, "properties": { "nom": "Lutherian Hospital of Ambohibao", "Adresse": "Ambohibao", "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.476513, -18.851239 ] } },
+
+{ "type": "Feature","id": 10,"properties": { "nom": "Centre de Sante Maternelle et Infantile", "Adresse": null, "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.523353, -18.906997 ] } },
+
+{ "type": "Feature","id": 11, "properties": { "nom": "CHU Anosiala", "Adresse": null, "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.421184, -18.795625] } },
+
+{ "type": "Feature","id": 12, "properties": { "nom": "Dr Agarwal's Eye Hospital", "Adresse": "villa anjarasoa, Lot VD5 Bis Faliario, 101 Rue Tsimanindry, Antananarivo, Madagascar", "Horaires": "ouvert de 08h a 17h", "Contact": "034 49 740 50", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.541257, -18.920335 ] } },
+
+{ "type": "Feature","id": 13, "properties": {  "nom": "Centre Medical FUNHECE", "Adresse": "Andrefanambohijanahary 7, Antananarivo, Madagascar", "Horaires": null, "Contact": "32 02 028 64", "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.520883, -18.921017 ] } },
+
+{ "type": "Feature","id": 14, "properties": {"nom": "Hopital des Enfants", "Adresse": null, "Horaires": null, "Contact": null, "region": "ANALAMANGA" }, "geometry": { "type": "Point", "coordinates": [ 47.523025, -18.906828 ] } },
+
+{ "type": "Feature","id": 15, "properties": {  "nom": "Hopital Communale Arivonimamo", "Adresse": "Hopital Communal, N 1, Arivonimamo, Itasy, Province deAntananarivo, Madagascar", "Horaires": null, "Contact": null, "region": "ITASY" }, "geometry": { "type": "Point", "coordinates": [ 47.18077, -19.01141 ] } },
+
+{ "type": "Feature","id": 16, "properties": {  "nom": "CHRR Itasy Miarinarivo", "Adresse": "CHRR Itasy, N 1, Lycee, Ampaisokely, Miarinarivo I, Itasy, Province deAntananarivo, 117, Madagascar", "Horaires": null, "Contact": null, "region": "ITASY" }, "geometry": { "type": "Point", "coordinates": [ 46.90685, -18.95514 ] } },
+
+{ "type": "Feature","id": 17, "properties": { "nom": "CHRR Bongolava Tsiroanomandidy", "Adresse": "Centre Hospitalier de Reference Regional de Bongolava, N 1b, Ambohitsoa, Andranomadio, Bongolava, Province deAntananarivo, Madagascar", "Horaires": null, "Contact": null, "region": "BONGOLAVA" }, "geometry": { "type": "Point", "coordinates": [ 46.04844, -18.77331 ] } }
+
+]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Building Hike in Boosmansbos, August 2014</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" /> -->
+    <link rel="stylesheet" href="../../leaflet.css"/>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        html, body, #map {
+            height: 100%;
+            width: 100%;
+            background: white;
+        }
+    </style>
+
+</head>
+<body>
+<div id="map"></div>
+<!-- <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script> -->
+<script src="../../leaflet.js"></script>
+<script>
+    var map = L.map('map', {
+        center: [-18.90955, 47.52752],
+        zoom: 6,
+        ]
+    });
+    var qgis = L.tileLayer.wms("http://localhost:8080/geoserver/ESS/wms", {
+        layers: 'ESS:Region_WGS84',
+        format: 'image/png',
+        transparent: true,
+        attribution: '(c)<a href="http://kartoza.com">Kartoza.com</a> and <a href="http://www.ngi.gov.za/">SA-NGI</a>'
+    }).addTo(map);
+</script>
+
+</body>
+</html>
